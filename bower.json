@@ -1,0 +1,21 @@
+{
+  "name": "jquery-numeric",
+  "homepage": "https://github.com/SamWM/jquery-numeric",
+  "authors": [
+    "SamWM <sam.collett@gmail.com>"
+  ],
+  "description": "jQuery plugin to allow only numbers to be typed into a text box",
+  "main": "jquery.numeric.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
+}
