@@ -1,0 +1,35 @@
+{
+  "name": "jquery-numeric",
+  "version": "1.5.0",
+  "author": {
+    "name": "SamWM",
+    "email": "sam.collett@gmail.com",
+    "url": "https://github.com/SamWM"
+  },
+  "description": "jQuery plugin to allow only numbers to be typed into a text box",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/SamWM/jquery-numeric/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/SamWM/jquery-numeric",
+  "main": "jquery.numeric.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamWM/jquery-numeric.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SamWM/jquery-numeric/issues"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "input",
+    "numeric"
+  ],
+  "files": [
+    "jquery.numeric.js",
+    "LICENSE"
+  ]
+}
